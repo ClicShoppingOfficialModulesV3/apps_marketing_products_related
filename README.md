@@ -20,6 +20,6 @@ activate also in Design / Description the module
 
 licence  : GPL 2 - MIT
 
-Marketplace link : https://www.clicshopping.net/forum/files/file/12-products-related-and-cross-sell/
+Marketplace link : https://www.clicshopping.org/forum/files/file/12-products-related-and-cross-sell/
 
 ![related](https://github.com/ClicShoppingOfficialModulesV3/apps_marketing_products_related/blob/master/ModuleInfosJson/related.png)
