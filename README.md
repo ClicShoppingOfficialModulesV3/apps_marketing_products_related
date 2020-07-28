@@ -23,4 +23,16 @@ licence  : GPL 2 - MIT
 See Marketplace for all informations
 Marketplace link : https://www.clicshopping.org/forum/files/file/12-products-related-and-cross-sell/
 
+All informations about the ClicShopping
+
+Community : https://www.clicshopping.org
+
+Software : https://github.com/ClicShopping
+
+Official add on : https://github.com/ClicShoppingOfficialModulesV3
+
+Community add on : https://github.com/ClicShoppingV3Community
+
+trademark License info : https://www.clicshopping.org/forum/trademark/
+
 ![related](https://github.com/ClicShoppingOfficialModulesV3/apps_marketing_products_related/blob/master/ModuleInfosJson/related.png)
