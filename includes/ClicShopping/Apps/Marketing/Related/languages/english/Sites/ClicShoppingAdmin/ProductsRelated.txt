@@ -1,0 +1,43 @@
+
+heading_title = Cross sell and products related
+heading_title_search = Search
+
+table_heading_id = Id
+table_heading_product_from = Master products (of)
+table_heading_product_to = Slave products (to)
+table_heading_status = Status
+table_heading_customers_group = B2B Mode
+table_heading_action = Action
+table_heading_order = Sort order
+table_heading_related_products = Related products
+table_heading_cross_sell_products = Cross sell products
+table_heading_model = Model
+
+
+text_confirm_delete_attribute = Please, confirm the delete
+
+show_all_products = All the products
+edit = Edit
+delete = Delete
+inherit = Hinerit
+reciprocicate = Reciprocate
+insert = Insert
+title_help_related_products = Products related and cross sell notes
+text_help_related_products_content =
+<li> <u> B2B mode </u> (if you have the option) to display only products for B2B customers groups. Otherwise, the customer will not see this product if the box is not checked. This rule applies to all client groups.</li>
+<li> <u> Insert mode </u> enables products to be linked. In this case, you create one relationship between the products (slave \ master in display).</li>
+<li> <u> Mode Reprocicate </u> will create a link between the 2 products (master and slave). </li>
+<li> <u> Legacy mode </u> enables you to create multiple recordings with the same master and slave products. To use this feature, you must have created several products. The display is made only in one direction master - slave (the slave master will appear in). </Li>
+<li> Click to return to update the general page to display all registered products. </li>
+
+title_products_related_image = Help on products cross sell
+
+button_reciprocate = Reciprocate
+button_insert = Insert
+button_cancel = Cancel
+button_update = Update
+button_reset = Reset
+
+
+image_edit = Edit
+image_delete = Delete

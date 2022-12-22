@@ -1,0 +1,2 @@
+text_heading_title_best_selling = Produits complémentaires
+navbar_title_1 = Produits complémentaires

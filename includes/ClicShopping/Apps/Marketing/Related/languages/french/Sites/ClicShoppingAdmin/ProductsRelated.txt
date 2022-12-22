@@ -1,0 +1,43 @@
+
+heading_title = Produits complémentaires & croisés
+heading_title_search = Rechercher
+
+table_heading_id = Id
+table_heading_product_from = Produit maitre (de)
+table_heading_product_to = Produit esclave (de)
+table_heading_status = Statut
+table_heading_customers_group = Mode B2B
+table_heading_action = Action
+table_heading_order = ordre de tri
+table_heading_related_products = Produits complémentaires
+table_heading_cross_sell_products = Produits croisés
+table_heading_model = Référence
+
+text_confirm_delete_attribute = Veuillez confirmr la suppression
+
+show_all_products = Tous les produits
+edit = Editer
+delete = Supprimer
+inherit = Hériter
+reciprocicate = Reciprocate
+insert = Insérer
+
+title_help_related_products = Notes sur les produits complémentaires and croisés
+text_help_related_products_content =
+<li> <u> Lode B2B </u> (si vous avez l’option) pour afficher uniquement les produits pour les groupes de clients B2B. Dans le cas contraire, le client ne verra pas ce produit si la case n’est pas cochée. Cette règle s’applique à tous les groupes de clients. </li>
+<li> <u> Le mode insertion </u> permet de relier les produits. Dans ce cas, vous créez une relation entre les produits (esclave  maître en affichage). </li>
+<li> <u> Mode Reprocicate </u> créera un lien entre les 2 produits (maître et esclave). </li>
+<li> <u> Le mode hérité </u> vous permet de créer plusieurs enregistrements avec les mêmes produits maîtres et esclaves. Pour utiliser cette fonctionnalité, vous devez avoir créé plusieurs produits. L’affichage est fait uniquement dans un sens maître-esclave (le maître esclave apparaîtra). </Li>
+<li> cliquez pour revenir pour mettre à jour la page générale pour afficher tous les produits enregistrés. </li>
+
+title_products_related_image = Aide
+
+button_reciprocate = Reciprocate
+button_insert = Insérer
+button_cancel = Annuler
+button_update = Mettre à jour
+button_reset = Reset
+
+
+image_edit = Editer
+image_delete = Supprimer

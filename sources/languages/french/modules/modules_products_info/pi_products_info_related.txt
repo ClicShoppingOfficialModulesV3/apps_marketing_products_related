@@ -1,0 +1,31 @@
+module_products_info_related = Souhaitez-vous afficher les produits similaires dans la page de description ?
+module_products_info_related_description = Affiche les produits similaires dans la page de description
+module_products_info_related_name = Articles similaires recommandés
+
+text_stock =  Stock
+text_flash_discount = Remise flash
+text_customer_quantity = qté
+text_products_quantity_type = Type qté
+text_products_free = Gratuit
+text_manufacturer = Marque
+text_products_price_kilo = px/kg
+text_date_available =  Date disponibilité
+text_only_shop = Seulement au magasin
+text_only_web = Seulement sur le web
+text_products_info_packaging_text = Produit
+text_products_packaging_new = Neuf
+text_products_packaging_repackaged = Reconditionné
+text_products_packaging_used = Utilisé
+text_display_shipping_delay = Délais expédition
+text_products_volume = Volume produit
+text_display_products_weight = Poids kg
+
+text_out_of_stock = Hors stock
+text_alert_stock = Alert estock
+text_in_stock = En stock
+
+min_qty_product = min qty
+
+button_details = Détails
+button_buy_now = Acheter
+button_exhausted = Epuisé

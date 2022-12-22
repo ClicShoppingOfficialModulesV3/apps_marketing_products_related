@@ -1,0 +1,33 @@
+heading_title = Products Related
+module_re_title = Products Related
+module_re_short_title = Products Related
+
+text_products_related =  Products Related
+text_configure =  configure App Module
+
+text_intro = This app allow you to include a new page on your shop. <br /><br />
+- This system is not like the modules approach and it's impossible to customize the files or to choose a template.
+- The css is including in your css directory and you can customize it.<br />
+- Click on Configure to access / install or uninstall the app.<br />
+- This App is dependent on the Cross Selling and Related module than you must install
+
+module_re_introduction = The install process create the database settings for this module and the access menu
+
+button_back = Back
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_delete = Delete
+button_related = Products related
+button_cancel = Cancel
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.

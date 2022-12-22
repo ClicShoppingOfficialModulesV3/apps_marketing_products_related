@@ -1,0 +1,2 @@
+text_heading_title_best_selling = Products related
+navbar_title_1 = Products related
